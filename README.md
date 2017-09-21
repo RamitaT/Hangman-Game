@@ -1,5 +1,5 @@
 # Hangman-Game
-Two-player Hangman Game (Python)
+Two-player Hangman Game
 
 This program generates a simple hangman game for two players.
 To start the game, the first player enters a secret word.
